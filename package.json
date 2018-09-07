@@ -1,9 +1,30 @@
 {
 	"name": "download-all-images-from-website",
+	"description": "downloads all images in <img /> from website and keeps folder structure.",
 	"version": "0.0.1",
+	"license": "MIT",
 	"author": {
-		"name": "Tobias Lopez"
+		"name": "Tobias Lopez",
+		"email": "tl@opten.ch",
+		"url": "https://github.com/ninjaonsafari"
 	},
+	"keywords": [
+		"cli",
+		"bin",
+		"util",
+		"utility",
+		"helper",
+		"argv",
+		"command",
+		"line",
+		"download",
+		"images",
+		"option",
+		"flags",
+		"website",
+		"cmd",
+		"console"
+	],
 	"dependencies": {
 		"path": "0.12.7",
 		"request": "2.88.0",
