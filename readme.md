@@ -18,8 +18,7 @@ It also changes the extension `tif` to `jpg`.
 - [ ] more information about downloads (eg. count of all images downloaded)
 
 ## Changelog
-- **0.0.2** added readme, license and npm
-- **0.0.1** intial implementation
+- **0.0.1** intial implementation added readme, license and npm
 
 ## License
 MIT © [Tobias Lopez](https://github.com/ninjaonsafari)
