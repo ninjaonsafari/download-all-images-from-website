@@ -14,9 +14,9 @@ const args = require('yargs')
 
 
 var options = {
-	host: args.host,  //'http://www.fischerspindle.ch',
-	path: args.path, // '/produkte_test/spindles/'
-	mediaDestRoot: args.dest, // 'test'
+	host: args.host,
+	path: args.path,
+	mediaDestRoot: args.dest,
 	replaceExtensions: {}
 };
 

@@ -3,10 +3,10 @@ downloads all images in `<img />` from website and keeps folder structure.
 
 ## Usage
 ```
-download-all-images-from-website --host http://fischerspindle.ch --path /produkte_test/spindles/ --dest test tif=jpg
+download-all-images-from-website --host https://www.github.com/ --path /ninjaonsafari/ --dest test tif=jpg
 ```
 
-This will download all images from `http://fischerspindle.ch/produkte_test/spindles/` and saves them to the relative `test` folder.
+This will download all images from `https://www.github.com/ninjaonsafari/` and saves them to the relative `test` folder.
 It also changes the extension `tif` to `jpg`.
 
 ## Roadmap
@@ -15,6 +15,7 @@ It also changes the extension `tif` to `jpg`.
 - [ ] more information about downloads (eg. count of all images downloaded)
 
 ## Changelog
+**0.0.2** added readme and license
 **0.0.1** intial implementation
 
 ## License
