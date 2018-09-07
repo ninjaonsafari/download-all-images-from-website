@@ -1,6 +1,9 @@
 # download-all-images-from-website
 downloads all images in `<img />` from website and keeps folder structure.
 
+## Install
+`npm install download-all-images-from-website`
+
 ## Usage
 ```
 download-all-images-from-website --host https://www.github.com/ --path /ninjaonsafari/ --dest test tif=jpg
@@ -15,8 +18,8 @@ It also changes the extension `tif` to `jpg`.
 - [ ] more information about downloads (eg. count of all images downloaded)
 
 ## Changelog
-**0.0.2** added readme and license
-**0.0.1** intial implementation
+- **0.0.2** added readme and license
+- **0.0.1** intial implementation
 
 ## License
 MIT © [Tobias Lopez](https://github.com/ninjaonsafari)
